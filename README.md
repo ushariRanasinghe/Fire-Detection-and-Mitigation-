@@ -79,7 +79,7 @@ This project integrates a fire detection system using a combination of sensors, 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/fire-detection-system.git
+    git clone https://github.com/ushariRanasinghe/Fire-Detection-and-Mitigation-
     ```
 
 2. **Install the required Python libraries**:
