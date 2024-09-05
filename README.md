@@ -37,6 +37,11 @@ This project integrates a fire detection system using a combination of sensors, 
 - Monitors sensor outputs and controls the actuators.
 - Displays real-time video feed for fire detection and graphical gauges for sensor outputs.
 
+### LabVIEW Interface 
+
+![LabVIEW Interface Screenshot](https://github.com/ushariRanasinghe/Fire-Detection-and-Mitigation-/blob/main/images/labviewUI.png)
+
+
 #### LabVIEW Interface Overview
 
 - **Live Video Feed**: Shows the camera feed for real-time fire detection.
